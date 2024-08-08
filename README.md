@@ -48,7 +48,7 @@ Autores do projeto foram:
 * **Alunos da robótica** - *Desenvolvimento de Ideias* - [o grupo](https://www.instagram.com/cecm_projetos/)
 * **Guilherme Minoro** - *Desenvolvedor do Site* - [o desenvolvedor](https://www.instagram.com/japa_zx/)
 * **Jackeline** - *Professora de Programação* - [a professora](https://www.instagram.com/jackelinemondini/)
-* **Josimar** - *Professor de Robótica* 
+* **Josimar** - *Professor de Robótica* - [o professor]()
 
 
 ## 🎁 Expressões de gratidão
