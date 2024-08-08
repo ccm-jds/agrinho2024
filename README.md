@@ -1,5 +1,5 @@
 
-*   *Em produção 🚧🚧*
+*   *Em produção* 🚧🚧
 
 
 <a href="/img/banner.png">
