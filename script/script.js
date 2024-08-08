@@ -46,7 +46,6 @@ function textIA(str) {
       
       $.ajax(settings)
         .done(function (response) {
-            // console.log(response);
             $('#textIA').text(response.candidates[0].content.parts[0].text);
         });
 }

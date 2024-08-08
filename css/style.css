@@ -1,8 +1,10 @@
+/*Números da estação meteorológica*/
 .destaq {
     color: rgb(13, 110, 253);
     font-family: sans-serif;
 }
 
+/*Quadro I.A */
 .alert-primary {
   background-color: rgba(13, 110, 253, 0.1);
   border-color: rgb(13, 110, 253);
