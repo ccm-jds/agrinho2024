@@ -9,11 +9,11 @@ Desenvolvemos um site sobre o clima pois o colégio comprou a primeira estação
 ## 🚀 Começando
 
 A idéia do site é abrir para todos os alunos ter acesso aos dados coletados da Estação Meteorológica pois é importante para estudos e desenvolvimento.
-<!-- **[Implantação](#-implanta%C3%A7%C3%A3o)** -->
+<!-- **[test](#-implanta%C3%A7%C3%A3o)** -->
 
 ## 📦 Implantação
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Só e necessário abrir o site [clicando aqui!](https://ccm-jds.github.io/agrinho2024) 
 
 ## 🛠️ Construído com
 
@@ -36,17 +36,13 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
+* Passe ele para proxíma fase 😁;
 * Um agradecimento publicamente 🫂;
-* etc.
+* 
 
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+⌨️ com ❤️ por [Guilherme Minoro](https://www.instagram.com/japa_zx/) 😊
