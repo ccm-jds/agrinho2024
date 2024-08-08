@@ -1,3 +1,8 @@
+```
+Em produção 🚧🚧
+```
+
+
 <a href="/img/banner.png">
   <img alt="video poster image" src="/img/banner.png" width="100%">
 </a>
@@ -17,31 +22,27 @@ Só e necessário abrir o site [clicando aqui!](https://ccm-jds.github.io/agrinh
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+Oque foi utilizado para criar o site:
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+* [Weather Underground](https://www.wunderground.com) - Os dados da estação meteorológica 
+* [Bootstrap](https://getbootstrap.com) - Algumas funções do site
+* [Gemini](https://gemini.google.com/app) - A inteligência artificial para o site
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Autores do projeto foram:
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+* **Alunos da robótica** - *Desenvolvimento de Ideias* - [o grupo](https://www.instagram.com/cecm_projetos/)
+* **Guilherme Minoro** - *Desenvolvedor do Site* - [o desenvolvedor](https://www.instagram.com/japa_zx/)
+* **Jackeline** - *Professora de Programação* - [a professora](https://www.instagram.com/jackelinemondini/)
+* **Josimar** - *Professor de Robótica* 
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
 * Passe ele para proxíma fase 😁;
 * Um agradecimento publicamente 🫂;
-* 
 
 
 ---
