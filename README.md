@@ -1,6 +1,7 @@
 <a href="/img/banner.png">
-  <img alt="video poster image" src="/img/banner.png" width="480">
+  <img alt="video poster image" src="/img/banner.png" width="100%">
 </a>
+
 # Do campo a cidade, colhendo OPORTUNIDADES
 
 Desenvolvemos um site sobre o clima pois o colégio comprou a primeira estação meteorológica da encaixamos no tema, pois o clima e muito importante tanto pra cidade tanto pro campo.
