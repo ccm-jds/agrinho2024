@@ -10,6 +10,9 @@
   border-color: rgb(13, 110, 253);
 }
 
+.alert-border {
+  border-color: rgb(13, 110, 253);
+}
 .alert-primary h4 {
   color: rgb(13, 110, 253);
 }
