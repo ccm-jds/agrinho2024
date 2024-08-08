@@ -4,6 +4,10 @@
     font-family: sans-serif;
 }
 
+.navbar-brand:hover{
+  color: rgb(13, 110, 253);
+}
+
 /*Quadro I.A */
 .alert-primary {
   background-color: rgba(13, 110, 253, 0.1);
