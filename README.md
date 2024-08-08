@@ -1,6 +1,5 @@
-```
-Em produção 🚧🚧
-```
+
+*   *Em produção 🚧🚧*
 
 
 <a href="/img/banner.png">
@@ -14,7 +13,16 @@ Desenvolvemos um site sobre o clima pois o colégio comprou a primeira estação
 ## 🚀 Começando
 
 A idéia do site é abrir para todos os alunos ter acesso aos dados coletados da Estação Meteorológica pois é importante para estudos e desenvolvimento.
-<!-- **[test](#-implanta%C3%A7%C3%A3o)** -->
+
+## 📃 Sobre o site:
+
+```
+**O site foi desenvolvido em cima de questões climáticas pois sabemos que o campo dempende das informações que são enviadas das cidades. Então em nosso site acoplamos informações climáticas de nossa cidade (Jandaia do Sul), e com informações gerados pela I.A (Gemini) sobre plantações utilizando o clima local em tempo real. E mais abaixo do site contém informações sobre:**
+* Colégio Estadual Civíco Militar Jandaia do Sul;
+* Estação Meteorológica;
+* Programação e Robótica em meio escola;
+* Tema do projeto;
+```
 
 ## 📦 Implantação
 
