@@ -58,7 +58,8 @@ function textIA(str) {
 
 $('#cultivo').on('change', function(){
   if($('#cultivo').val() != 0) {
-    textIA('A temperatura em Jandaia do Sul está ' + $('#temp').text() + '°C, a velocidade do vento ' + $('#windspeed').text() + ' km/h e a umidade ' + $('#humidity').text() + '. Descreva em apenas 100 palavras, qual a recomendação agronômica para o cultivo de ' + $('#cultivo').val() + ' nesta condição climática');
+    textIA('Você é uma engenheira agrônoma na área de ciência do solo e nutrição de plantas. Elabore uma recomendação agronômica sem formatação e sem tópicos, com até 100 palavras para pequenos agricultores, para o cultivo de '+ $('#cultivo').val() +' com base na temperatura em Jandaia do Sul que é ' + $('#temp').text() + '°C, a velocidade do vento ' + $('#windspeed').text() + ' km/h e a umidade ' + $('#humidity').text() +'%.' );
+    //textIA('Você é uma mãe impaciente de aluno. Elabore um sermão informal com no mínimo 100 palavras para o seu filho adolescente ir preparado para o colégio com base nas condições climáticas a seguir: em Jandaia do Sul a temperatura atual é ' + $('#temp').text() + '°C, a velocidade do vento ' + $('#windspeed').text() + ' km/h e a umidade ' + $('#humidity').text() +'%.' );
   } else {
     $('#textIA').hide();
     const toastIA = document.getElementById('toastIA')
