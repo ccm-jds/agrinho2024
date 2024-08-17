@@ -17,10 +17,10 @@ A ideia do site é abrir para todos os alunos terem acesso aos dados coletados d
 ## 📃 Sobre o site:
 
 ```
-O site foi desenvolvido em cima de questões climáticas, pois sabemos que o campo depende das
-informações que são enviadas das cidades. Então, em nosso site, acoplamos informações climáticas
-de nossa cidade (Jandaia do Sul) e com informações geradas pela I.A (Gemini) sobre plantações, 
-utilizando o clima local em tempo real. E mais abaixo do site, contém informações sobre:
+O site foi desenvolvido em cima de questões climáticas, pois sabemos que o campo depende das informações 
+que são enviadas das cidades. Então, em nosso site, acoplamos informações climáticas de nossa cidade 
+(Jandaia do Sul) e com informações geradas pela I.A (Gemini) sobre plantações, utilizando o clima local 
+em tempo real. E mais abaixo do site, contém informações sobre:
 ```
 
 * Colégio Estadual Cívico-Militar Jandaia do Sul;
