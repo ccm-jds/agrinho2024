@@ -8,24 +8,24 @@
 
 # Do campo a cidade, colhendo OPORTUNIDADES
 
-Desenvolvemos um site sobre o clima pois o colégio comprou a primeira estação meteorológica da encaixamos no tema, pois o clima e muito importante tanto pra cidade tanto pro campo.
+Desenvolvemos um site sobre o clima, pois o colégio comprou a primeira estação meteorológica qual encaixamos no tema, pois o clima é muito importante tanto para a cidade quanto para o campo.
 
 ## 🚀 Começando
 
-A idéia do site é abrir para todos os alunos ter acesso aos dados coletados da Estação Meteorológica pois é importante para estudos e desenvolvimento.
+A ideia do site é abrir para todos os alunos terem acesso aos dados coletados da Estação Meteorológica, pois é importante para estudos e desenvolvimento.
 
 ## 📃 Sobre o site:
 
 ```
-O site foi desenvolvido em cima de questões climáticas pois sabemos que o campo dempende das
-informações que são enviadas das cidades. Então em nosso site acoplamos informações climáticas 
-de nossa cidade (Jandaia do Sul), e com informações gerados pela I.A (Gemini) sobre plantações 
-utilizando o clima local em tempo real. E mais abaixo do site contém informações sobre:
+O site foi desenvolvido em cima de questões climáticas, pois sabemos que o campo depende das
+informações que são enviadas das cidades. Então, em nosso site, acoplamos informações climáticas
+de nossa cidade (Jandaia do Sul) e com informações geradas pela I.A (Gemini) sobre plantações, 
+utilizando o clima local em tempo real. E mais abaixo do site, contém informações sobre:
 ```
 
-* Colégio Estadual Civíco Militar Jandaia do Sul;
+* Colégio Estadual Cívico-Militar Jandaia do Sul;
 * Estação Meteorológica;
-* Programação e Robótica em meio escola;
+* Programação e Robótica em meio escolar;
 * Tema do projeto;
 
 
@@ -35,7 +35,7 @@ Só e necessário abrir o site [clicando aqui!](https://ccm-jds.github.io/agrinh
 
 ## 🛠️ Construído com
 
-Oque foi utilizado para criar o site:
+O que foi utilizado para criar o site:
 
 * [Weather Underground](https://www.wunderground.com) - Os dados da estação meteorológica 
 * [Bootstrap](https://getbootstrap.com) - Algumas funções do site
@@ -54,7 +54,7 @@ Autores do projeto foram:
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
-* Passe ele para proxíma fase 😁;
+* Passe ele para próxima fase 😁;
 * Um agradecimento publicamente 🫂;
 
 
