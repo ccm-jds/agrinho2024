@@ -12,15 +12,24 @@ Desenvolvemos um site sobre o clima, pois o colégio comprou a primeira estaçã
 
 ## 🚀 Começando
 
-A ideia do site é abrir para todos os alunos terem acesso aos dados coletados da Estação Meteorológica, pois é importante para estudos e desenvolvimento.
+A ideia do site é demonstrar dados climáticos, como temperatura, sensação térmica, velocidade do vento, velocidade da rajada do vento, pressão atmosférica, umidade, ponto de condensação da água, taxa de precipitação e precipitação total, em tempo real de uma estação meteorológica do Colégio Estadual Cívico-Militar Jandaia do Sul. Criar um sistema que analisa os dados climáticos coletados para fornecer  recomendações específicas para diferentes tipos de culturas agrícolas, ajudando os agricultores a tomar decisões informadas.
+
 
 ## 📃 Sobre o site:
 
 ```
-O site foi desenvolvido em cima de questões climáticas, pois sabemos que o campo depende das
-informações que são enviadas das cidades. Então, em nosso site, acoplamos informações climáticas
-de nossa cidade (Jandaia do Sul) e com informações geradas pela I.A (Gemini) sobre plantações, 
-utilizando o clima local em tempo real. E mais abaixo do site, contém informações sobre:
+Em parceria do Colégio Estadual Cívico-Militar Jandaia do Sul, que recentemente inaugurou uma 
+estação meteorológica, desenvolvemos um projeto que une tecnologia e conhecimento agrícola. 
+Acreditamos que tanto o campo quanto a cidade dependem de informações precisas sobre o clima 
+para tomar decisões estratégicas.
+Nosso site foi pensado para os pequenos produtores e agrônomos 	de Jandaia do Sul, oferecendo 
+dados meteorológicos atualizados e recomendações personalizadas para otimizar suas plantações, 
+redução de custos e tomada de decisões mais assertivas, geradas por inteligência artificial 
+Gemini (Gemini representa um avanço significativo na área da inteligência artificial, oferecendo 
+capacidades sem precedentes em termos de versatilidade, raciocínio e multimodalidade. Essa nova 
+geração de modelos de linguagem tem o potencial de revolucionar como interagimos com a tecnologia 
+e de abrir novas possibilidades em diversas áreas do conhecimento humano).
+No site também contém informações sobre:
 ```
 
 * Colégio Estadual Cívico-Militar Jandaia do Sul;
