@@ -26,9 +26,9 @@ Nosso site foi pensado para os pequenos produtores e agrônomos 	de Jandaia do S
 dados meteorológicos atualizados e recomendações personalizadas para otimizar suas plantações, 
 redução de custos e tomada de decisões mais assertivas, geradas por inteligência artificial 
 Gemini (Gemini representa um avanço significativo na área da inteligência artificial, oferecendo 
-capacidades sem precedentes em termos de versatilidade, raciocínio e multimodalidade. Essa nova 
-geração de modelos de linguagem tem o potencial de revolucionar como interagimos com a tecnologia 
-e de abrir novas possibilidades em diversas áreas do conhecimento humano).
+capacidades sem precedentes em termos de versatilidade, raciocínio e multimodalidade. 
+Essa nova geração de modelos de linguagem tem o potencial de revolucionar como interagimos com 
+a tecnologia e de abrir novas possibilidades em diversas áreas do conhecimento humano).
 No site também contém informações sobre:
 ```
 
