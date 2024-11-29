@@ -1,6 +1,6 @@
 
 (function update() {
-    $.getJSON( "https://api.weather.com/v2/pws/observations/current?stationId=IJANDA6&format=json&units=m&apiKey=2fa2cac154b640b1a2cac154b680b15f&numericPrecision=decimal")
+    $.getJSON( "https://api.weather.com/v2/pws/observations/current?stationId=IJANDA6&format=json&units=m&apiKey=1901d61479384c5481d61479380c540b&numericPrecision=decimal")
     .done(function( json ) {
         //Atribuindo as informações da estação meteorológica
         $('#windgust').text(json.observations[0].metric.windGust);
